@@ -21,8 +21,8 @@
 			<url>http://localhost:8080/nexus-2.14.1-01/content/repositories/repoR/</url>
 		</repository>
 		<snapshotRepository>
-			<id>repoS</id>
-			<url>http://localhost:8080/nexus-2.14.1-01/content/repositories/repoS/</url>
+			<id>devops</id>
+			<url>http://localhost:8081/nexus/content/repositories/devops/</url>
 		</snapshotRepository>		
   </distributionManagement>
 </project>
